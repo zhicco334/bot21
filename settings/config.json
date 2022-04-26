@@ -1,0 +1,15 @@
+{
+	"ownername":"mr.chainner",
+	"ownernumber":"16075336978",
+	"botname":"zhicco bot",
+	"dana": "0818301179",
+	"ovo": "0818301179",
+	"pulsa": "0818301179",
+	"thumbnail":"./settings/logo.jpg",
+	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}
